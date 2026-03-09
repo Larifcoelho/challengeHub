@@ -40,3 +40,17 @@ Desafios
 POST /challenges - Cria um novo desafio
 
 GET /challenges - Lista todos os desafios
+
+-----
+
+*Melhorias futuras*
+
+Paginação de tópicos
+
+Sistema de respostas
+
+Documentação com Swagger
+
+Testes automatizados
+
+Deploy na nuvem
